@@ -1,5 +1,5 @@
 const display = document.getElementById('clock');
-const audio = new Audio('samsungs3-9ndqvksi-22816.mp3');
+const audio = new Audio('https://prasanth200562.github.io/Samsung/');
 audio.loop = true;
 let alarmTime = null;
 let alarmTimeout = null;
