@@ -1,5 +1,5 @@
 const display = document.getElementById('clock');
-const audio = new Audio('content://media/external/downloads/1799080');
+const audio = new Audio('samsungs3-9ndqvksi-22816.mp3');
 audio.loop = true;
 let alarmTime = null;
 let alarmTimeout = null;
